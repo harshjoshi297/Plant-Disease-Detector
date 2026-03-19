@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+tensorflow==2.19.0
+pillow
+numpy
+python-multipart
+python-dotenv
+groq
+langchain-core
+langchain-groq
+scikit-learn
